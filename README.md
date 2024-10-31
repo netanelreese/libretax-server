@@ -1,2 +1,2 @@
-# libretax-server
+# LibreTax Server
 The server associated with the libretax website.
